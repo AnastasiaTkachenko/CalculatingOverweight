@@ -9,7 +9,7 @@ console.log (areYouOverweight);
 
 alert ('Are you overweight?' + areYouOverweight); 
 
-
+console.log("test");
 
 
 +
